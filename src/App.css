@@ -2,6 +2,36 @@
   text-align: center;
 }
 
+.clients{
+  background-color: rgb(200, 200, 74);
+  color: white;
+  height: 100vh;
+}
+
+.home{
+  background-color: rgb(165, 165, 221);
+  color: white;
+  height: 100vh;
+}
+
+.products{
+  background-color: rgb(158, 213, 158);
+  color: white;
+  height: 100vh;
+}
+
+.portfolio{
+  background-color: pink;
+  color: white;
+  height: 100vh;
+}
+
+.service{
+  background-color: rgb(207, 99, 207);
+  color: white;
+  height: 100vh;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
